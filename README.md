@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Marko Baghashvili
-- 👀 I'm interested in Front-End Web Development roles.
-- 💼 I’m open to collaborating on remote projects or working in Tbilisi, Georgia.
-- 📫 How to reach me my mobile number is +995 599 99 21 09 and email: baghashvili.marko@gmail.com
 
-# About Me
+- 👋 Hi, I’m Marko Baghashvili
 
 ## Skills
 
