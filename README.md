@@ -5,7 +5,6 @@
 
 - HTML5, CSS3, JavaScript, SASS
 - Responsive Web Design
-- Frameworks: React.js
 - Version Control: Git, GitHub
 - ...
 
