@@ -12,9 +12,10 @@
 
 - [Project 1 (Traveler)](https://marko010101.github.io/Travel/Traveler/): A traveling website using Pure CSS (SCSS).
 - [Project 2](https://style-maven.netlify.app/): A fully functional E-commerce website.
-- [Project 3](https://marko010101.github.io/booking-app/starter/): A booking app focused on Flexbox layouts and pure CSS (SCSS).
-- [Project 4 (Heavens)](https://heavens.netlify.app/): A home-selling website focused on grid layouts with pure CSS (SCSS).
-- [Project 5](https://dream-car-depot.netlify.app/): My first project - a car e-commerce website focused on functionality.
+- [Project 3](Dice-roller)(https://beatmyroller.netlify.app/): Dice roller game based on .
+- [Project 4](https://marko010101.github.io/booking-app/starter/): A booking app focused on Flexbox layouts and pure CSS (SCSS).
+- [Project 5 (Heavens)](https://heavens.netlify.app/): A home-selling website focused on grid layouts with pure CSS (SCSS).
+- [Project 6](https://dream-car-depot.netlify.app/): My first project - a car e-commerce website focused on functionality.
 
 ## Contact
 
