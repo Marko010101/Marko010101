@@ -24,6 +24,6 @@
 
 ## Let's Collaborate
 
-I'm open to remote work opportunities and collaboration. Feel free to reach out if you have an exciting project or idea to discuss.
+I'm open to new opportunities and collaboration. Feel free to reach out.
 
 
