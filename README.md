@@ -9,10 +9,10 @@
 - ...
 
 ## Projects
-- [Project 1](https://bankingsweb.netlify.app/) : Website for bankings, connected to bankingsAPP.
-- [Project 2](https://bankingsapp.netlify.app/) : Aplication for Bankings accounting.
+- [Project 1 (BankingsWeb)](https://bankingsweb.netlify.app/) : Website for bankings, connected to bankingsAPP.
+- [Project 2 (BankingsAPP)](https://bankingsapp.netlify.app/) : Aplication for Bankings accounting.
 - [Project 3 (Healthy map)](https://healthymap.netlify.app/): Healthy map for running and circlying iformation, distance pace and else... 
-- [Project 4](https://style-maven.netlify.app/): A fully functional E-commerce website.
+- [Project 4 (style-maven)](https://style-maven.netlify.app/): A fully functional E-commerce website.
 - [Project 5 (Dice-roller)](https://beatmyroller.netlify.app/): Dice roller game against my dice roller function.
 - [Project 6(neighborhood countries)](https://neighborhoodies.netlify.app/): Neighbour countries depend on your location.
 - [Project 7](https://dream-car-depot.netlify.app/): My first project - a car e-commerce website focused on functionality.
