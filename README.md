@@ -3,7 +3,7 @@
 
 ## Skills
 
-- HTML5, CSS3, JavaScript, SASS
+- HTML5, CSS3, JavaScript, SASS, React
 - Responsive Web Design
 - Version Control: Git, GitHub
 - ...
