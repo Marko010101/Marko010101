@@ -11,7 +11,7 @@
 ## Projects
 - [Project 1 (Flavor-Tasty)](https://flavor-tasty.netlify.app/) : A real-world application for searching recipes, creating your own, bookmarking, and more.
 - [Project 2 (DineShares)](https://dineshares.netlify.app/) : React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
-- [Project 3 (DineShares)](https://annsdiary.netlify.app/) : A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
+- [Project 3 (AnnsDiary)](https://annsdiary.netlify.app/) : A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
 - [Project 4 (TravelWay)](https://travel-way.netlify.app/) :  A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
 - [Project 5 (BankingsWeb)](https://bankingsweb.netlify.app/) : Website for bankings, connected to bankingsAPP.
 - [Project 6 (BankingsAPP)](https://bankingsapp.netlify.app/) : Aplication for Bankings accounting.
