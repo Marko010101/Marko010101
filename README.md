@@ -24,14 +24,8 @@
 - [Project 13(Heavens)](https://heavens.netlify.app/): A home-selling website focused on grid layouts with pure CSS (SCSS).
 - [Project 14(Booking-app)](https://marko010101.github.io/booking-app/starter/): A booking app focused on Flexbox layouts and pure CSS (SCSS).
 
-### Hi there 👋
-
-![HTML](https://img.shields.io/badge/HTML-20%25-orange)
-![CSS](https://img.shields.io/badge/CSS-30%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
-![React](https://img.shields.io/badge/React-10%25-green)
-
-![Metrics](https://github.com/your-Marko010101/your-Marko010101/blob/main/github-metrics.svg)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marko010101&layout=compact)
+![Metrics](https://github.com/Marko010101/Marko010101/blob/main/github-metrics.svg)
 
 
 
