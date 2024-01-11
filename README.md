@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
 ![React](https://img.shields.io/badge/React-10%25-green)
 
-![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
+![Metrics](https://github.com/your-Marko010101/your-Marko010101/blob/main/github-metrics.svg)
 
 
 
