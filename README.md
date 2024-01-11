@@ -28,6 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS-30%25-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-40%25-yellow)
 ![React](https://img.shields.io/badge/React-10%25-green)
+![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
 
 
 ## Contact
