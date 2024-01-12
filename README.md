@@ -25,7 +25,7 @@
 
 <br/>
 <div style="display: flex; justify-content: flex-start;">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=g-apxo&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs?username=Marko010101&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact">
     <img width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marko010101&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Marko010101" style="max-width: 100%;">
   </a>
 </div>
