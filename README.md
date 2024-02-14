@@ -6,6 +6,8 @@
 - HTML5, CSS3, JavaScript, SASS, React
 - Responsive Web Design
 - Version Control: Git, GitHub
+- Bootstrap
+- Firebase
 
 ## Projects
 - [Project 1 (Flavor-Tasty)](https://flavor-tasty.netlify.app/) : A real-world application for searching recipes, creating your own, bookmarking, and more.
