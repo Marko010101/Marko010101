@@ -12,19 +12,20 @@
 ## Projects
 - [Project 1 (Flavor-Tasty)](https://flavor-tasty.netlify.app/) : A real-world application for searching recipes, creating your own, bookmarking, and more.
 - [Project 2 (DineShares)](https://dineshares.netlify.app/) : React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
-- [Project 3 (TBCxUSAID)](https://tbcxusaid.netlify.app/) : TBC Academy TBCxUSAID page.
-- [Project 4 (AnnsDiary)](https://annsdiary.netlify.app/) : A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
-- [Project 5 (TravelWay)](https://travel-way.netlify.app/) :  A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
-- [Project 6 (BankingsWeb)](https://bankingsweb.netlify.app/) : Website for bankings, connected to bankingsAPP.
-- [Project 7 (BankingsAPP)](https://bankingsapp.netlify.app/) : Application for Bankings accounting.
-- [Project 8 (Healthy map)](https://healthymap.netlify.app/): Healthy map for running and circlying iformation, distance pace and else... 
-- [Project 9 (style-maven)](https://style-maven.netlify.app/): A fully functional E-commerce website.
-- [Project 10 (Dice-roller)](https://beatmyroller.netlify.app/): Dice roller game against my dice roller function.
-- [Project 11 (neighborhood countries)](https://neighborhoodies.netlify.app/): Neighbour countries depend on your location.
-- [Project 12 (Dream-car-depot)](https://dream-car-depot.netlify.app/): My first project - a car e-commerce website focused on functionality.
-- [Project 13 (Traveler)](https://marko010101.github.io/Travel/Traveler/): A traveling website using Pure CSS (SCSS).
-- [Project 14 (Heavens)](https://heavens.netlify.app/): A home-selling website focused on grid layouts with pure CSS (SCSS).
-- [Project 15 (Booking-app)](https://marko010101.github.io/booking-app/starter/): A booking app focused on Flexbox layouts and pure CSS (SCSS).
+- [Project 3 (BringPopcorn)](https://bringpopcorn.netlify.app/) : A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
+- [Project 4 (TBCxUSAID)](https://tbcxusaid.netlify.app/) : TBC Academy TBCxUSAID page.
+- [Project 5 (AnnsDiary)](https://annsdiary.netlify.app/) : A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
+- [Project 6 (TravelWay)](https://travel-way.netlify.app/) :  A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
+- [Project 7 (BankingsWeb)](https://bankingsweb.netlify.app/) : Website for bankings, connected to bankingsAPP.
+- [Project 8 (BankingsAPP)](https://bankingsapp.netlify.app/) : Application for Bankings accounting.
+- [Project 9 (Healthy map)](https://healthymap.netlify.app/): Healthy map for running and circlying iformation, distance pace and else... 
+- [Project 10 (style-maven)](https://style-maven.netlify.app/): A fully functional E-commerce website.
+- [Project 11 (Dice-roller)](https://beatmyroller.netlify.app/): Dice roller game against my dice roller function.
+- [Project 12 (neighborhood countries)](https://neighborhoodies.netlify.app/): Neighbour countries depend on your location.
+- [Project 13 (Dream-car-depot)](https://dream-car-depot.netlify.app/): My first project - a car e-commerce website focused on functionality.
+- [Project 14 (Traveler)](https://marko010101.github.io/Travel/Traveler/): A traveling website using Pure CSS (SCSS).
+- [Project 15 (Heavens)](https://heavens.netlify.app/): A home-selling website focused on grid layouts with pure CSS (SCSS).
+- [Project 16 (Booking-app)](https://marko010101.github.io/booking-app/starter/): A booking app focused on Flexbox layouts and pure CSS (SCSS).
 
 <br/>
 <div style="display: flex; justify-content: flex-start;">
