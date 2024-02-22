@@ -12,8 +12,8 @@
 ## Projects
 ### React 
 1. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
-2. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
-3. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
+2. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
+3. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
 4. <a href="https://annsdiary.netlify.app/">AnnsDiary</a>: A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
 5. <a href="https://travel-way.netlify.app/">TravelWay</a>: A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
 
