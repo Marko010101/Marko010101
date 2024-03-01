@@ -3,19 +3,37 @@
 
 ## Skills
 
-- HTML5, CSS3, JavaScript, SASS, React
+### Frontend Development:
+- HTML5
+- CSS3
+- JavaScript
+- SASS
+- React
+  - Context API
+  - React Router
+- Leaflet
+
+### Responsive Design:
 - Responsive Web Design
-- Version Control: Git, GitHub
 - Bootstrap
+
+### Version Control:
+- Git
+- GitHub
+
+### Backend Services:
 - Firebase
+
+
 
 ## Projects
 ### React 
-1. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
-2. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
-3. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
-4. <a href="https://annsdiary.netlify.app/">AnnsDiary</a>: A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
-5. <a href="https://travel-way.netlify.app/">TravelWay</a>: A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
+1. <a href="https://worldvoyage.netlify.app/">WorldVoyage</a>:It is an app where, after registration, you are able to mark every place you have traveled on the map, add the date and notes, and add them to the list of your journey collection.
+2. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
+3. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
+4. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
+5. <a href="https://annsdiary.netlify.app/">AnnsDiary</a>: A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
+6. <a href="https://travel-way.netlify.app/">TravelWay</a>: A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
 
 ### HTML CSS/Sass JS 
 1. <a href="https://flavor-tasty.netlify.app/">Flavor-Tasty</a>: A real-world application for searching recipes, creating your own, bookmarking, and more.
