@@ -12,16 +12,9 @@
   - Context API
   - React Router
 - Leaflet
-
-### Responsive Design:
 - Responsive Web Design
 - Bootstrap
-
-### Version Control:
-- Git
-- GitHub
-
-### Backend Services:
+- Git, GitHub
 - Firebase
 
 
