@@ -8,7 +8,8 @@
 - CSS3
 - JavaScript
 - SASS
-- React
+- React 
+  - Redux
   - Context API
   - React Router
 - Leaflet
