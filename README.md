@@ -1,23 +1,29 @@
 
 <h1>👋 Hi, My name is Marko Baghashvili</h1>
 
-## Skills
-
 ### Frontend Development:
-- HTML5
-- CSS3
-- JavaScript
-- SASS
-- React 
-  - Redux
-  - Context API
-  - React Router
-- Leaflet
-- Responsive Web Design
-- Bootstrap
+- **Languages and Preprocessors:**
+  - HTML5
+  - CSS3
+  - SASS
+  - JavaScript
+
+- **Frameworks and Libraries:**
+  - React 
+    - Redux
+    - Context API
+    - React Router
+  - Leaflet
+  - Bootstrap
+  - Tailwind CSS
+
+- **Additional Skills:**
+  - Responsive Web Design
+
+### Version Control and Deployment:
 - Git, GitHub
 - Firebase
-
+- Netlify
 
 
 ## Projects
