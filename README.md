@@ -28,7 +28,7 @@
 
 ## Projects
 ### React 
-1. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a>: Pizza company where you can order the pizzas.
+1. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a>: A pizza company where you can choose pizzas from the menu, place orders, and track your order. The project is a single-page application using React, React Router, Tailwind CSS, and APIs for the pizza menu and order processing.
 2. <a href="https://worldvoyage.netlify.app/">WorldVoyage</a>:It is an app where, after registration, you are able to mark every place you have traveled on the map, add the date and notes, and add them to the list of your journey collection.
 2. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
 3. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
