@@ -16,6 +16,7 @@
   - Leaflet
   - Bootstrap
   - Tailwind CSS
+  - Styled components
 
 - **Additional Skills:**
   - Responsive Web Design
