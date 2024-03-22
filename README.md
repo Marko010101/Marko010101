@@ -1,33 +1,40 @@
 
 <h1>👋 Hi, My name is Marko Baghashvili</h1>
 
-### Frontend Development:
-- **Languages and Preprocessors:**
-  - HTML5
-  - CSS3
-  - SASS
-  - JavaScript
+<p>I am an experienced web front-end developer.</p>
 
-- **Frameworks and Libraries:**
-  - React 
-    - Redux
-    - Context API
-    - React Router
-  - Leaflet
-  - Bootstrap
-  - Tailwind CSS
-  - Styled components
+## Skills
 
-- **Additional Skills:**
-  - Responsive Web Design
+### Languages and Preprocessors
+- HTML5
+- CSS3 (including SASS)
+- JavaScript (ES6+)
 
-### Version Control and Deployment:
-- Git, GitHub
-- Firebase
-- Netlify
+### Frameworks and Libraries
+- React.js
+  - React Query
+  - Redux (for state management)
+  - Context API (alternative state management)
+  - React Router (for routing)
+- Tailwind CSS (utility-first CSS framework)
+- Styled Components (for styling React components)
+- Bootstrap (for responsive UI components)
+
+### Additional Skills
+- Proficient in Responsive Web Design principles and implementation
+- Easy to adapt with great communication skills.
+
+## Version Control and Deployment
+- Git (version control system)
+- GitHub (for hosting repositories and collaboration)
+- Supabase (for backend services and hosting)
+- Firebase (alternative backend services and hosting)
+- Netlify (for continuous deployment and hosting)
 
 
 ## Projects
+Here are some notable projects that showcase my skills and experience:
+
 ### React 
 1. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a>: A pizza company where you can choose pizzas from the menu, place orders, and track your order. The project is a single-page application using React, React Router, Tailwind CSS, and APIs for the pizza menu and order processing.
 2. <a href="https://worldvoyage.netlify.app/">WorldVoyage</a>:It is an app where, after registration, you are able to mark every place you have traveled on the map, add the date and notes, and add them to the list of your journey collection.
