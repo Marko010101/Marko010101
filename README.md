@@ -12,10 +12,11 @@
 
 ### Frameworks and Libraries
 - React.js
-  - React Query
+  - React Query (Data-fetching library for React with features like caching, pagination, and real-time updates)
   - Redux (for state management)
   - Context API (alternative state management)
   - React Router (for routing)
+
 - Tailwind CSS (utility-first CSS framework)
 - Styled Components (for styling React components)
 - Bootstrap (for responsive UI components)
