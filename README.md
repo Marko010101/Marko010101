@@ -16,6 +16,7 @@
   - Redux (for state management)
   - Context API (alternative state management)
   - React Router (for routing)
+  - React Hook Form (Utilized for managing complex forms)
 
 - Tailwind CSS (utility-first CSS framework)
 - Styled Components (for styling React components)
