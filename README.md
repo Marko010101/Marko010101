@@ -38,13 +38,14 @@
 Here are some notable projects that showcase my skills and experience:
 
 ### React 
-1. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a>: A pizza company where you can choose pizzas from the menu, place orders, and track your order. The project is a single-page application using React, React Router, Tailwind CSS, and APIs for the pizza menu and order processing.
-2. <a href="https://worldvoyage.netlify.app/">WorldVoyage</a>:It is an app where, after registration, you are able to mark every place you have traveled on the map, add the date and notes, and add them to the list of your journey collection.
-2. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
-3. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
-4. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
-5. <a href="https://annsdiary.netlify.app/">AnnsDiary</a>: A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
-6. <a href="https://travel-way.netlify.app/">TravelWay</a>: A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
+1. <a href="https://spiritual-heaven.netlify.app/login"> Project for a booking company whose users are agents. These agents can utilize a plethora of features such as charts, stats, uploading cabins, creating bookings, and editing them. In this project, I am utilizing React Query, Styled Components, React Hook Form, Supabase, an advanced compound component pattern, authentication, charts, dark mode, and professional application planning and development, among other things.
+2. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a>: A pizza company where you can choose pizzas from the menu, place orders, and track your order. The project is a single-page application using React, React Router, Tailwind CSS, and APIs for the pizza menu and order processing.
+3. <a href="https://worldvoyage.netlify.app/">WorldVoyage</a>:It is an app where, after registration, you are able to mark every place you have traveled on the map, add the date and notes, and add them to the list of your journey collection.
+4. <a href="https://quizifyreact.netlify.app/">QuizifyReact</a>: Experience an engaging React quiz comprising 15 questions, each with its own point value, meticulously calculated. Challenge yourself against the ticking timer integrated into the quiz interface.
+5. <a href="https://bringpopcorn.netlify.app/">BringPopcorn</a>: A React application where users can search for movies, rate them, add them to a list, and view average information about the watched list.
+6. <a href="https://dineshares.netlify.app/">DineShares</a>: React application designed for seamless expense management among friends. With this app, effortlessly add friends, perform expense calculations, and equitably distribute bills.
+7. <a href="https://annsdiary.netlify.app/">AnnsDiary</a>: A small React app that allows users to maintain a personal diary. Users can add and delete diary entries, providing a private space for reflection and recording thoughts.
+8. <a href="https://travel-way.netlify.app/">TravelWay</a>: A React-based project for creating lists of items, specifying their quantities, and marking them as packed and more...
 
 ### HTML CSS/Sass JS 
 1. <a href="https://flavor-tasty.netlify.app/">Flavor-Tasty</a>: A real-world application for searching recipes, creating your own, bookmarking, and more.
