@@ -12,7 +12,7 @@
 
 ### Frameworks and Libraries
 - React.js
-  - React Query (Data-fetching library for React with features like caching, pagination, and real-time updates)
+  - Tanstack Query (Data-fetching library for React with features like caching, pagination, and real-time updates)
   - Redux (for state management)
   - Context API (alternative state management)
   - React Router (for routing)
