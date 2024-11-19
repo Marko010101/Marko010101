@@ -3,36 +3,27 @@
 
 <p> I am an experienced frontend web developer with over 2 years of experience, including 6 months working in a startup environment. I have solid expertise in React, creating user-friendly, responsive, and practical projects. Currently, I am expanding my skills in backend development with Node.js, Express, and MongoDB, working toward becoming a full-stack developer.</p>
 
-## Skills
+## 🚀 Skills
 
-### Languages and Preprocessors
-- HTML5
-- CSS3 (including SASS)
-- JavaScript (ES6+)
+### **Languages & Tools**
+- **HTML5**, **CSS3** (SASS)
+- **JavaScript** (ES6+)
 
-### Frameworks and Libraries
-- React.js
-  - Tanstack Query (Data-fetching library for React with features like caching, pagination, and real-time updates)
-  - Redux (for state management)
-  - Context API (alternative state management)
-  - React Router (for routing)
-  - React Hook Form (Utilized for managing complex forms)
+### **Frontend Frameworks & Libraries**
+- **React.js** (expert level)
+  - Tanstack Query (data-fetching, caching, pagination)
+  - Redux & Context API (state management)
+  - React Router
+  - React Hook Form (advanced form handling)
+- **Styling**: Tailwind CSS, Styled Components, Bootstrap
 
-- Tailwind CSS (utility-first CSS framework)
-- Styled Components (for styling React components)
-- Bootstrap (for responsive UI components)
+### **Backend Development**
+- **Node.js**, **Express**, **MongoDB** (in progress)
 
-### Additional Skills
-- Proficient in Responsive Web Design principles and implementation
-- Easy to adapt with great communication skills.
-
-## Version Control and Deployment
-- Git (version control system)
-- GitHub (for hosting repositories and collaboration)
-- Supabase (for backend services and hosting)
-- Firebase (alternative backend services and hosting)
-- Netlify (for continuous deployment and hosting)
-
+### **Version Control & Deployment**
+- **Git**, **GitHub**
+- **Supabase**, **Firebase**
+- **Netlify**
 
 ## Projects
 Here are some notable projects that showcase my skills and experience:
