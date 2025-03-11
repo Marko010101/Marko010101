@@ -1,29 +1,45 @@
 
-<h1>👋 Hi, My name is Marko Baghashvili</h1>
+# 👋 Hi, I'm Marko Baghashvili  
 
-<p> I am an experienced frontend web developer with over 2 years of experience, including 6 months working in a startup environment. I have solid expertise in React, creating user-friendly, responsive, and practical projects. Currently, I am expanding my skills in backend development with Node.js, Express, and MongoDB, working toward becoming a full-stack developer.</p>
+I am a **full-stack web developer** with over two years of experience, including six months in a startup environment. I specialize in building **scalable, user-friendly, and responsive** applications using **React** on the frontend and **Node.js, Express, and MongoDB** on the backend. My focus is on delivering high-performance solutions with clean and maintainable code.  
 
-## 🚀 Skills
+## 🚀 Skills  
 
-### **Languages & Tools**
-- **HTML5**, **CSS3** (SASS)
-- **JavaScript** (ES6+)
+### **Frontend Development**  
 
-### **Frontend Frameworks & Libraries**
-- **React.js** (expert level)
-  - Tanstack Query (data-fetching, caching, pagination)
-  - Redux & Context API (state management)
-  - React Router
-  - React Hook Form (advanced form handling)
-- **Styling**: Tailwind CSS, Styled Components, Bootstrap
+#### **Next.js**  
+- **Rendering**: SSR, SSG, ISR  
+- **Performance**: Image optimization, Code Splitting  
+- **API Routes**: Serverless functions & middleware  
+- **SEO & i18n**: Meta tags, Open Graph, multi-language support  
+- **Routing**: Dynamic & nested routes, App Router (Next.js 13+)  
 
-### **Backend Development**
-- **Node.js**, **Express**, **MongoDB** (in progress)
+#### **React.js**  
+- **State Management**: Redux, Context API  
+- **Data Fetching**: TanStack Query (caching, pagination)  
+- **Forms**: React Hook Form (validation, handling)  
+- **Component-Based Architecture & Performance Optimization**  
 
-### **Version Control & Deployment**
-- **Git**, **GitHub**
-- **Supabase**, **Firebase**
-- **Netlify**
+#### **Styling & UI**  
+- **Styling**: Tailwind CSS, Styled Components, CSS Modules  
+- **UI Libraries**: Material UI  
+
+#### **Security & Authentication**  
+- JWT, NextAuth.js, OAuth  
+
+#### **Testing**  
+- Jest, React Testing Library, Cypress  
+
+### **Backend Development**  
+- **Node.js**, **Express**, **MongoDB**, **Mongoose**  
+  - RESTful API development  
+  - Authentication & authorization  
+  - Database modeling and queries  
+
+### **Version Control & Deployment**  
+- **Version Control**: Git, GitHub  
+- **Databases & Backend Services**: MongoDB Atlas, Supabase, Firebase  
+- **Deployment Platforms**: Netlify, Vercel, Render  
 
 ## Projects
 Here are some notable projects that showcase my skills and experience:
