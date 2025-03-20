@@ -44,7 +44,7 @@ I am a **full-stack web developer** with over two years of experience, including
 ## Projects
 Here are some notable projects that showcase my skills and experience:
 ### Next.js
-1. <a href="https://spiritual-heaven-website.vercel.app/">A full-stack website for luxury cabin hotels</a>, featuring property listings, reservations, user registration, profile management, and reservation updates. The platform also includes an <a href="https://spiritual-heaven.netlify.app">Admin Panel</a> for managing bookings and hotel details.
+1. <a href="https://spiritual-heaven-website.vercel.app/">Spiritual haven</a> A full-stack website for luxury cabin hotels featuring property listings, reservations, user registration, profile management, and reservation updates. The platform also includes an <a href="https://spiritual-heaven.netlify.app">Admin Panel</a> for managing bookings and hotel details.
 
 ### React 
 1. <a href="https://momentumtracker.netlify.app/"> momentumTracker </a> A task-tracking website for teams. It allows you to create employees, assign tasks, update statuses, apply filters, and more.</i>
