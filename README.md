@@ -1,45 +1,71 @@
-
 # 👋 Hi, I'm Marko Baghashvili  
 
-I am a **full-stack web developer** with over two years of experience, including six months in a startup environment. I specialize in building **scalable, user-friendly, and responsive** applications using **React** on the frontend and **Node.js, Express, and MongoDB** on the backend. My focus is on delivering high-performance solutions with clean and maintainable code.  
+I'm a **full-stack web developer** with over two years of hands-on experience in building and deploying **scalable**, **user-focused**, and **high-performance** web applications. My stack is centered around **React** and **Next.js** on the frontend, and **Node.js**, **Express**, and **MongoDB** on the backend.  
 
-## 🚀 Skills  
+With experience in both **startup environments** and independent projects, I excel at transforming ideas into fully functional products—clean, responsive, secure, and maintainable.  
 
-### **Frontend Development**  
+---
 
-#### **Next.js**  
-- **Rendering**: SSR, SSG, ISR  
-- **Performance**: Image optimization, Code Splitting  
-- **API Routes**: Serverless functions & middleware  
-- **SEO & i18n**: Meta tags, Open Graph, multi-language support  
-- **Routing**: Dynamic & nested routes, App Router (Next.js 13+)  
+## 🚀 Tech Stack & Expertise  
 
-#### **React.js**  
-- **State Management**: Redux, Context API  
-- **Data Fetching**: TanStack Query (caching, pagination)  
-- **Forms**: React Hook Form (validation, handling)  
-- **Component-Based Architecture & Performance Optimization**  
+### 🧠 Frontend Development  
 
-#### **Styling & UI**  
-- **Styling**: Tailwind CSS, Styled Components, CSS Modules  
-- **UI Libraries**: Material UI  
+#### Next.js  
+- **Rendering Strategies**: SSR, SSG, ISR for lightning-fast performance  
+- **API Routes**: Full-stack capabilities with serverless functions & middleware  
+- **Routing**: App Router (Next.js 13+), dynamic & nested routing  
+- **Performance**: Image optimization, lazy loading, code splitting  
+- **SEO & Localization**: Meta tags, Open Graph, internationalization
 
-#### **Security & Authentication**  
-- JWT, NextAuth.js, OAuth  
+#### React.js  
+- **State Management**: Redux, Context API, Zustand  
+- **Data Handling**: TanStack Query (caching, pagination, infinite scroll)  
+- **Forms**: React Hook Form with advanced validation  
+- **Architecture**: Reusable components, lazy loading, performance tuning  
 
-#### **Testing**  
-- Jest, React Testing Library, Cypress  
+#### Styling & UI  
+- **Frameworks**: Tailwind CSS, Styled Components, CSS Modules  
+- **Design Systems**: Material UI, custom component libraries  
 
-### **Backend Development**  
-- **Node.js**, **Express**, **MongoDB**, **Mongoose**  
-  - RESTful API development  
-  - Authentication & authorization  
-  - Database modeling and queries  
+#### TypeScript  
+- Type-safe development for scalable, enterprise-level codebases  
 
-### **Version Control & Deployment**  
-- **Version Control**: Git, GitHub  
-- **Databases & Backend Services**: MongoDB Atlas, Supabase, Firebase  
-- **Deployment Platforms**: Netlify, Vercel, Render  
+---
+
+### 🔐 Security & Authentication  
+- **Auth Tools**: JWT, NextAuth.js, OAuth 
+- **Best Practices**: Secure routing, role-based access control  
+
+---
+
+### 🧪 Testing & Quality Assurance  
+- **Unit & Integration Testing**: Jest, React Testing Library  
+- **End-to-End Testing**: Cypress  
+
+---
+
+### ⚙️ Backend Development  
+- **Languages & Frameworks**: Node.js, Express  
+- **Database Design**: MongoDB & Mongoose (Schemas, Relationships, Aggregations)  
+- **API Development**: RESTful APIs with modular architecture  
+- **Authentication**: Token-based (JWT), social login integrations  
+- **File Handling**: Multer, Cloudinary integration for uploads  
+
+---
+
+### 🌐 DevOps & Deployment  
+- **Version Control**: Git, GitHub (branches, pull requests, CI)  
+- **Databases & Cloud Services**: MongoDB Atlas, Supabase, Firebase  
+- **CI/CD & Deployment**: Vercel, Netlify, Render (auto-deploy from Git)  
+- **Environment Configs**: .env management, environment-based builds  
+
+---
+
+## 💼 Why Hire Me?  
+- ✅ Proven experience in building **full-stack products from scratch**  
+- ✅ Passion for clean code, scalability, and performance  
+- ✅ Fast learner and strong communicator  
+- ✅ Startup-tested: agile, resourceful, and delivery-focused  
 
 ## Projects
 Here are some notable projects that showcase my skills and experience:
