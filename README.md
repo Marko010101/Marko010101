@@ -1,71 +1,78 @@
-# 👋 Hi, I'm Marko Baghashvili  
+# 👋 Hi, I'm Markoz Baghashvili  
 
-I'm a **full-stack web developer** with over two years of hands-on experience in building and deploying **scalable**, **user-focused**, and **high-performance** web applications. My stack is centered around **React** and **Next.js** on the frontend, and **Node.js**, **Express**, and **MongoDB** on the backend.  
-
-With experience in both **startup environments** and independent projects, I excel at transforming ideas into fully functional products—clean, responsive, secure, and maintainable.  
-
----
-
-## 🚀 Tech Stack & Expertise  
-
-### 🧠 Frontend Development  
-
-#### Next.js  
-- **Rendering Strategies**: SSR, SSG, ISR for lightning-fast performance  
-- **API Routes**: Full-stack capabilities with serverless functions & middleware  
-- **Routing**: App Router (Next.js 13+), dynamic & nested routing  
-- **Performance**: Image optimization, lazy loading, code splitting  
-- **SEO & Localization**: Meta tags, Open Graph, internationalization
-
-#### React.js  
-- **State Management**: Redux, Context API, Zustand  
-- **Data Handling**: TanStack Query (caching, pagination, infinite scroll)  
-- **Forms**: React Hook Form with advanced validation  
-- **Architecture**: Reusable components, lazy loading, performance tuning  
-
-#### Styling & UI  
-- **Frameworks**: Tailwind CSS, Styled Components, CSS Modules  
-- **Design Systems**: Material UI, custom component libraries  
-
-#### TypeScript  
-- Type-safe development for scalable, enterprise-level codebases  
+**Full-stack Web & Mobile Developer**  
+Building fast, scalable and user-focused products with **React**, **Next.js**, **Vue.js**, **Node.js**, **MongoDB** – and **React Native** for mobile.
 
 ---
 
-### 🔐 Security & Authentication  
-- **Auth Tools**: JWT, NextAuth.js, OAuth 
-- **Best Practices**: Secure routing, role-based access control  
+## 👨‍💻 About Me  
+
+I’m a full-stack developer with a strong product mindset and over three years of experience turning ideas into real, production-ready applications.  
+
+I’ve worked in **startup environments**, **software companies**, and as a **lecturer**, which helped me develop not only strong technical skills, but also the ability to communicate clearly, ship fast, and think about business value—not just code.
+
+I love:
+- Designing clean, predictable architectures  
+- Keeping UX smooth and fast  
+- Automating everything that can (and should) be automated  
 
 ---
 
-### 🧪 Testing & Quality Assurance  
-- **Unit & Integration Testing**: Jest, React Testing Library  
-- **End-to-End Testing**: Cypress  
+## 💼 Experience  
+
+- 🔹 **Software Developer @ RSM Georgia Solutions** – *Current*  
+  - Working on real-world, production systems in a team environment  
+  - Building scalable, maintainable features with modern frontend stacks  
+
+- 🔹 **Developer @ Spacecargo**  
+  - Contributed to logistics / product workflows and internal tools  
+  - Focused on rebuilding the production website and internal admin platforms  
+
+- 🔹 **Full-stack Intern @ Redberry** (2 months)  
+  - Learned and practiced **PHP / Laravel** and modern web fundamentals  
+  - Worked in a fast-paced, product-focused environment  
+
+- 🔹 **Lecturer @ EduCity**  
+  - Teaching and mentoring students in frontend development  
+  - Explaining complex concepts in simple, practical ways  
 
 ---
 
-### ⚙️ Backend Development  
-- **Languages & Frameworks**: Node.js, Express  
-- **Database Design**: MongoDB & Mongoose (Schemas, Relationships, Aggregations)  
-- **API Development**: RESTful APIs with modular architecture  
-- **Authentication**: Token-based (JWT), social login integrations  
-- **File Handling**: Multer, Cloudinary integration for uploads  
+## 🚀 Tech Stack  
+
+### 🎨 Frontend  
+
+- **Next.js / React** – SSR/SSG/ISR, App Router, API routes, state (Redux, Context, Zustand), TanStack Query, React Hook Form, **shadcn/ui**, **MUI**, custom components  
+- **Vue 3** – Composition API, SPA/dashboards, API-driven UIs  
+- **React Native** – cross-platform apps sharing logic with web  
+- **Styling** – Tailwind CSS, CSS Modules, Styled Components  
+- **TypeScript** – type-safe, scalable codebases  
+
+### ⚙️ Backend & APIs  
+
+- **Node.js**, **Express**, **MongoDB (Mongoose)**  
+- RESTful APIs, authentication & authorization (JWT, OAuth, NextAuth.js)  
+- File uploads with **Multer** and **Cloudinary**  
+
+### ✅ Testing & Quality  
+
+- **Vitest**, **Jest** – unit & integration tests  
+- **Cypress** – end-to-end tests  
+
+### 🚢 DevOps & Deployment  
+
+- **Git & GitHub** – branching, PRs, reviews  
+- Deployments with **Vercel**, **Netlify**, **Render**  
+- **MongoDB Atlas**, **Supabase**, **Firebase**, env-based configs  
 
 ---
 
-### 🌐 DevOps & Deployment  
-- **Version Control**: Git, GitHub (branches, pull requests, CI)  
-- **Databases & Cloud Services**: MongoDB Atlas, Supabase, Firebase  
-- **CI/CD & Deployment**: Vercel, Netlify, Render (auto-deploy from Git)  
-- **Environment Configs**: .env management, environment-based builds  
+## 📱 Web & Mobile – What I Like to Build  
 
----
-
-## 💼 Why Hire Me?  
-- ✅ Proven experience in building **full-stack products from scratch**  
-- ✅ Passion for clean code, scalability, and performance  
-- ✅ Fast learner and strong communicator  
-- ✅ Startup-tested: agile, resourceful, and delivery-focused  
+- Full-stack apps from scratch (idea → design → deploy)  
+- Dashboards and internal tools with smooth UX  
+- Mobile apps with React Native that reuse web logic  
+ 
 
 ## Projects
 Here are some notable projects that showcase my skills and experience:
