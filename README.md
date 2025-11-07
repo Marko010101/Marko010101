@@ -20,21 +20,26 @@ I love:
 
 ## 💼 Experience  
 
-- 🔹 **Software Developer @ RSM Georgia Solutions** – *Current*  
-  - Working on real-world, production systems in a team environment  
-  - Building scalable, maintainable features with modern frontend stacks  
+- 🔹 **Software Developer @ RSM Georgia Solutions** *(Jun 2025 – Present · Tbilisi, On-site)*  
+  - Working on real-world production systems in a team environment  
+  - Building scalable, maintainable features with modern frontend stacks (React, Vue)
 
-- 🔹 **Developer @ Spacecargo**  
-  - Contributed to logistics / product workflows and internal tools  
-  - Focused on rebuilding the production website and internal admin platforms  
+- 🔹 **Lecturer @ EduCity** *(Jun 2025 – Present · Remote)*  
+  - Teaching frontend/web development to students  
+  - Helping beginners move from basics to real-world projects  
 
-- 🔹 **Full-stack Intern @ Redberry** (2 months)  
-  - Learned and practiced **PHP / Laravel** and modern web fundamentals  
-  - Worked in a fast-paced, product-focused environment  
+- 🔹 **Frontend Developer @ Space Cargo** *(Jan 2025 – Apr 2025 · Tbilisi, Hybrid)*  
+  - Contributed to logistics/product workflows and internal tools  
+  - Focused on rebuilding the production website and internal admin platforms
 
-- 🔹 **Lecturer @ EduCity**  
-  - Teaching and mentoring students in frontend development  
-  - Explaining complex concepts in simple, practical ways  
+- 🔹 **Full-stack Intern @ Redberry** *(2 months)*  
+  - Learned and practiced **PHP / Laravel** and core web fundamentals  
+  - Got experience in a fast-paced, product-focused environment  
+
+- 🔹 **Full Stack Engineer @ Home Chef (Startup)** *(Jun 2024 – Dec 2024)*  
+  - Worked with the MERN stack (MongoDB, Express, React, Node.js)  
+  - Used Redux and Tailwind CSS to build responsive, production-ready components  
+
 
 ---
 
