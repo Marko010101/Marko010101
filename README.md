@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Markoz Baghashvili  
 
 **Full-Stack Engineer | Frontend-Heavy** <br />  
-**Building scalable, production-ready applications with a focus on high-performance interfaces. Specialized in React, Next.js, Vue.js, and React Native, backed by a solid NestJS, Node.js, MySQL, and MongoDB foundation.**
+**With over 4 years of experience, I architect scalable, production-ready applications with a focus on high-performance interfaces. Specialized in React, Next.js, Vue.js, and React Native, backed by a solid NestJS, Node.js, MySQL, and MongoDB foundation.**
 
 ---
 
