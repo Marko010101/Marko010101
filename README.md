@@ -1,20 +1,7 @@
 # 👋 Hi, I'm Markoz Baghashvili  
 
-**Full-stack Web & Mobile Developer**  
-Building fast, scalable and user-focused products with **React**, **Next.js**, **Vue.js**, **Node.js**, **MongoDB** – and **React Native** for mobile.
-
----
-
-## 👨‍💻 About Me  
-
-I’m a full-stack developer with a strong product mindset and over three years of experience turning ideas into real, production-ready applications.  
-
-I’ve worked in **startup environments**, **software companies**, and as a **lecturer**, which helped me develop not only strong technical skills, but also the ability to communicate clearly, ship fast, and think about business value—not just code.
-
-I love:
-- Designing clean, predictable architectures  
-- Keeping UX smooth and fast  
-- Automating everything that can (and should) be automated  
+**Full-Stack Engineer | Frontend-Heavy** <br />  
+**Building scalable, production-ready applications with a focus on high-performance interfaces. Specialized in React, Next.js, Vue.js, and React Native, backed by a solid NestJS, Node.js, MySQL, and MongoDB foundation.**
 
 ---
 
@@ -55,8 +42,11 @@ I love:
 
 ### ⚙️ Backend & APIs  
 
-- **Node.js**, **Express**, **MongoDB (Mongoose)**  
-- RESTful APIs, authentication & authorization (JWT, OAuth, NextAuth.js)  
+- **NestJS & Node.js** – Architecting modular, scalable, and type-safe server-side applications.
+- **Express.js** – Crafting efficient RESTful APIs and middleware-driven services.
+- **Databases** – Proficient in **MySQL** (Relational modeling) and **MongoDB** (NoSQL/Mongoose).
+- **Security** – Authentication & Authorization (JWT, OAuth, NextAuth.js), ensuring data privacy and secure access.
+- **Tools & ORMs** – Working with Prisma, TypeORM, and Docker for consistent development environments.
 
 ### ✅ Testing & Quality  
 
