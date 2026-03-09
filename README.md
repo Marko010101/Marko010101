@@ -68,8 +68,6 @@ Here are some personal notable projects that showcase my skills and experience:
 2. <a href="https://momentumtracker.netlify.app/"> momentumTracker </a> A task-tracking website for teams. It allows you to create employees, assign tasks, update statuses, apply filters, and more.</i>
 3. <a href="https://lilomap.netlify.app/">LiLo Map</a> — An indoor map that displays a market layout. Users can interact with the map to select places, apply filters to view markets by specific conditions, and use an AI chatbot to ask for market information.
 4. <a href="https://redberry.netlify.app/"> Redberry </a> A project developed as part of the job application process at Redberry, completed in under 10 days and successfully passed the evaluation step. It includes CRUD operations, form handling with validations, and OR filtering (a more complex approach than standard AND filtering). For further details, see the README.
-5. <a href="https://spiritual-heaven.netlify.app">The Spiritual Heaven</a> Project for a booking company whose users are agents. These agents can utilize a plethora of features such as charts, stats, uploading cabins, creating bookings, and editing them. In this project, I am utilizing React Query, Styled Components, React Hook Form, Supabase, an advanced compound component pattern, authentication, charts, dark mode, and professional application planning and development, among other things.
-6. <a href="https://miatsa-pizza.netlify.app/">Miatsa pizza</a> A pizza company where you can choose pizzas from the menu, place orders, and track your order. The project is a single-page application using React, React Router, Tailwind CSS, and APIs for the pizza menu and order processing.
 
 <br/>
 <div style="display: flex; justify-content: flex-start;">
