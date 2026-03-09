@@ -19,7 +19,7 @@
   - Contributed to logistics/product workflows and internal tools  
   - Focused on rebuilding the production website and internal admin platforms
 
-- 🔹 **Full-stack Intern @ Redberry** *(2 months)*  
+- 🔹 **Full-stack Intern @ Redberry**
   - Learned and practiced **PHP / Laravel** and core web fundamentals  
   - Got experience in a fast-paced, product-focused environment  
 
